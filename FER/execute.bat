@@ -1,0 +1,2 @@
+python recognizer.py
+pause
