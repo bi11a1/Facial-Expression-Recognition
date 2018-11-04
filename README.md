@@ -3,5 +3,5 @@ It is a machine learning project that can identif y seven basic facial expressio
 
 **Input Image:**<br/>
 ![alt text](https://github.com/bi11a1/Facial-Expression-Recognition/blob/master/Demo%20images/Input%20Image.jpg)
-**Recognized Expression:**<br/>
+<br/>**Recognized Expression:**<br/>
 ![alt text](https://github.com/bi11a1/Facial-Expression-Recognition/blob/master/Demo%20images/Recognized%20Expression.PNG)
